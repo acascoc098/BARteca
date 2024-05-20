@@ -1,0 +1,3 @@
+[submodule "BARteca"]
+	path = BARteca
+	url = https://github.com/acascoc098/project-backend.git
